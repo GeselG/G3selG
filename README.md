@@ -1,10 +1,10 @@
-# G3selG
+# G3selG.github.io
 Learning to navigate the cyber world
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Gesel Gonzalez... and I'm a first year at San Diego City College, and  I am from San Diego CA.</p>
+<p align="left">My name is Gesel Gonzalez... I am first year at San Diego City College, and  I am from San Diego CA.</p>
 
 ###
 
